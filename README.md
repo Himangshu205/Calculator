@@ -9,9 +9,9 @@ and how basic logic is implemented in UI components.
 
 ##  Features :-
 - Perform basic arithmetic operations:
-  - Addition (+)
-  - Subtraction (-)
-  - Multiplication (*)
+  - Addition (`+`)
+  - Subtraction (`-`)
+  - Multiplication (`*`)
   - Division (/)
 - Clear display functionality
 - Decimal number support
