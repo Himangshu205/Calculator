@@ -1,6 +1,6 @@
 # Calculator
 
-This is a simple web-based calculator built using **HTML, CSS, and JavaScript**.  
+This is a simple web-based calculator built using **`HTML`, CSS, and JavaScript**.  
 This project was created while learning JavaScript, 
 focusing mainly on DOM manipulation and event handling using `onclick`.
 
@@ -12,7 +12,7 @@ and how basic logic is implemented in UI components.
   - Addition (`+`)
   - Subtraction (`-`)
   - Multiplication (`*`)
-  - Division (/)
+  - Division (`/`)
 - Clear display functionality
 - Decimal number support
 - Clean and simple UI
