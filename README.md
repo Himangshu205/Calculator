@@ -7,7 +7,7 @@ focusing mainly on DOM manipulation and event handling using `onclick`.
 Although it is a beginner-level project, it helped me understand how JavaScript interacts with HTML elements 
 and how basic logic is implemented in UI components.
 
-##  Features :-
+##  Features that has been used in this:-
 - Perform basic arithmetic operations:
   - Addition (`+`)
   - Subtraction (`-`)
