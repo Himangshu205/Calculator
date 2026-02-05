@@ -19,7 +19,7 @@ and how basic logic is implemented in UI components.
 
 ---
 
-## Technologies That has been Used :-
+## Technologies That has been used in this:-
 - **HTML** – Structure of the calculator
 - **CSS** – Styling and layout
 - **JavaScript** – Logic and functionality
